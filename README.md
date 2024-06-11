@@ -11,7 +11,7 @@
   
 ## 🗂️Проекты
 
-### 🃏Black Jack
+### 🃏[Black Jack](./example.py)
 Это классическая карточная игра, в которой игроки соперничают с дилером. В процессе разработки я глубже изучил язык программирования Python и овладел основами создания алгоритмов и логики игры.
 
 ### •--•-Code Morse
@@ -42,6 +42,7 @@
 
 ## 📩Контакты
 Если хотите связаться со мной, пишите в:
-- **Телеграм**: [![Telegram Messenger](https://p16-flow-sign-va.ciciai.com/ocean-cloud-tos-us/9759a731d00f4cafbdbe18379b4e9f26.png~tplv-6bxrjdptv7-image.png?rk3s=18ea6f23&x-expires=1749636851&x-signature=fSbVxMp6dpdbLrAOho3a8zesl7U%3D)](https://telegram.me/eclipse0monster)
-- **ВКонтакте**: [ваш ВКонтакте]
-- **Дискорд**: [ваш Дискорд]
+
+[<img src="https://key54.ru/wp-content/uploads/2019/11/telegram-icon-png-3.png" width="85">](https://telegram.me/eclipse0monster)
+[<img src="https://csi-ugra.ru/upload/medialibrary/ce5/vk.com_logo.svg_.png" width="28">](https://vk.com/timur_oddone)
+[<img src="https://cdn.akamai.steamstatic.com/steam/apps/1559390/extras/%E5%95%86%E5%BA%97%E9%A1%B5dis.png?t=1699434775" width="155">](https://discord.gg/bvBSUC422T)
