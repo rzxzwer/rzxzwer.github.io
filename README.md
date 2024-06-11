@@ -42,6 +42,6 @@
 
 ## 📩Контакты
 Если хотите связаться со мной, пишите в:
-- **Телеграм**: [ваш телеграм]
+- **Телеграм**: [![Telegram Messenger](https://p16-flow-sign-va.ciciai.com/ocean-cloud-tos-us/9759a731d00f4cafbdbe18379b4e9f26.png~tplv-6bxrjdptv7-image.png?rk3s=18ea6f23&x-expires=1749636851&x-signature=fSbVxMp6dpdbLrAOho3a8zesl7U%3D)](https://telegram.me/eclipse0monster)
 - **ВКонтакте**: [ваш ВКонтакте]
 - **Дискорд**: [ваш Дискорд]
